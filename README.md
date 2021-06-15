@@ -11,6 +11,9 @@ Necessary:
 Visual Studio Code, node.js, readline-sync  
 
 How to execute:  
+Download required software,  
+download Zip, unzip
+
 In Visual Studio Code:  
 Open Terminal or Command Prompt.  
 Set Path to where File is Located (using cd).  
